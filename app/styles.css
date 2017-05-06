@@ -1,0 +1,236 @@
+body {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #fdbf5e;
+	background-image: url(bg.gif);
+	background-repeat: repeat-x;
+}
+
+html {
+	height: 100%;
+	overflow: -moz-scrollbars-vertical;
+	overflow-y: scroll;
+}
+
+p {
+	margin-top: 10px;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+td {
+}
+
+a:link {
+	color: #4a4a4a;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #4a4a4a;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #d63d00;
+	font-weight: bold;
+}
+
+a:active {
+	color: #5b5b5b;
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.wrapper {
+	position: relative;
+	width: 717px;
+	height: 533px;
+	margin: auto;
+	-adbe-g: p, 5, 5;
+}
+
+.footerlink {
+	color: gray;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+	text-align: right;
+	margin: 0;
+	padding-top: 0;
+	padding-right: 10px;
+	padding-bottom: 1px;
+	height: 14px;
+}
+
+#logo {
+	position: absolute;
+	top: 60px;
+	left: 300px;
+}
+
+#footer {
+	position: absolute;
+	top: 510px;
+	left: 0px;
+	width: 702px;
+	height: 20px;
+}
+
+#portrait {
+	float: right;
+}
+
+.content {
+	color: #5b5b5b;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 19px;
+	text-decoration: none;
+	width: 392px;
+	max-width: 392px;
+	padding: 10px;
+	vertical-align: middle;
+	overflow: visible;
+	position: absolute;
+	top: 350px;
+	left: 300px;
+	min-height: 145px;
+	background-color: #FEF1DE;
+}
+
+.content a {
+	color: #5b5b5b;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 19px;
+	text-decoration: none;
+	text-align: justify;
+	width: 396px;
+	height: 145px;
+}
+
+.content a:visited {
+	color: #5b5b5b;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 19px;
+	text-decoration: none;
+	text-align: justify;
+	width: 396px;
+	height: 145px;
+}
+
+.content a:hover {
+	color: #5b5b5b;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 19px;
+	text-decoration: none;
+	text-align: justify;
+	width: 396px;
+	height: 145px;
+}
+
+.aktiv-leipis {
+	color: #3f3f3f;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 19px;
+	text-decoration: none;
+	text-align: justify;
+	width: 396px;
+	height: 145px;
+	max-width: 396px;
+	max-height: 145px;
+}
+
+.kontakt {
+	color: #fff;
+	line-height: 19px;
+	text-align: justify;
+	padding: 10px 0 0 20px;
+	width: 396px;
+	height: 145px;
+	max-width: 396px;
+	max-height: 145px;
+}
+
+#navcontainer {
+	position: absolute;
+	top: 318px;
+	left: 300px;
+	width: 410px;
+	height: 16px;
+	-adbe-c: c;
+	text-align: center
+}
+
+#navcontainer ul {
+	z-index: 99;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#navcontainer ul li {
+	font-variant: small-caps;
+	display: inline;
+}
+
+#navcontainer ul li a {
+	color: #231F20;
+	text-decoration: none;
+	padding-right: 7px;
+	padding-left: 5px;
+	border-left: 14px solid #fbb356;
+	display: inline;
+}
+
+#navcontainer ul li a:hover {
+	color: #f7921d;
+}
+
+.aktiv {
+	color: #e0230a;
+	font-weight: bold;
+}
+
+#banner {
+	position: absolute;
+	top: 60px;
+	left: 0px;
+	width: 286px;
+	height: 447px;
+}
+
+.hidden {
+	position: absolute;
+	left: -10000px;
+	top: auto;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}
+
+#reikiimg {
+	width: 380px;
+}
+
+#reikibutton {
+	position: absolute;
+	left: 670px;
+	top: 5px;
+	z-index: 100;
+}
