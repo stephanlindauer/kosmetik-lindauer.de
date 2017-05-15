@@ -217,9 +217,8 @@ function oeffnefenster (url) {
 <?php
 if($go=="kontakt") {
 ?>
-<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAyN3fBFcKklNo2uQRL3tqtxRwEU8DvmQtUgIoxZifszU2gN7SzRRKAPM9PThx1N4clt59P80lzrKc6g" type="text/javascript"></script>
+<script src="https://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAyN3fBFcKklNo2uQRL3tqtxRwEU8DvmQtUgIoxZifszU2gN7SzRRKAPM9PThx1N4clt59P80lzrKc6g" type="text/javascript"></script>
 <script type="text/javascript">
-
     function initialize() {
       if (GBrowserIsCompatible()) {
         var map = new GMap2(document.getElementById("banner"));
