@@ -148,6 +148,7 @@ selbst und seine Lebensumwelt zu unterstützen, Reiki entspannend und heilend wi
       Theresia Lindauer</p>
     <p> Geschwister-Scholl-Ring 49<br/>
       82110 Germering</p>
+	  <p><font color="red"><b>DERZEIT GESCHLOSSEN</b></font></p>	  
     <p> Tel.: 089/ 8948718<br/>
       Fax: 089/ 8948427<br/>
       Mobil: 0171/ 3158322</p>
